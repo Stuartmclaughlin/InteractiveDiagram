@@ -1,0 +1,140 @@
+<html>
+    
+    <head>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
+         <link rel="stylesheet" href="main.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script
+  src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+  integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+  crossorigin="anonymous"></script>
+    <script src="https://cdn.tutorialjinni.com/bootstrap-touchspin/4.2.5/jquery.bootstrap-touchspin.min.js"></script>
+<script src="script.js"></script>
+</head>
+
+<div class="bg"></div>
+       <div class="jumbotron jumbotron-fluid homepg">
+  <div class="container">
+    <h1 class="display-3 text-center">WELCOME TO FITFLEX</h1>
+    <p class="lead text-center">This page contains the interactive diagram and the dashboard to explore key features of the application is located below!</p>
+  </div>
+        </div>
+
+<div class="navy">
+    <div class="container">
+<h1>LEARN THE MUSCLES</h1>
+<p>Below is the interactive diagram that will allow you to learn each muscle group! simply click on a body part to view information on the muscle group!</p>
+    </div>
+</div>
+<div class="gradient_yellow">
+<div class="container">
+
+<div class="row">
+          
+    <div class="col-lg-5" id="interactive_dia">
+    <div class="text-center align-middle">
+              
+        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+  <label class="btn btn-primary active" data-tooltip title="Click here to display the front of the diagram!">
+    <input type="radio" id="defaultChecked" name="group1" value="front" checked> FRONT
+  </label>
+     <label class="btn btn-primary" data-tooltip title="Click here to display the back of the diagram!">
+    <input type="radio" id="defaultUnchecked" name="group1" value="back"> BACK
+  </label>
+        </div></div>
+        
+<div class="human-body mt-5" id="front">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.52 85.88" width="48.2" height="85.88" class="head"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls" d="M23.93,0C16.17,0,3.89,6.93,1,14c-4,9.82,5.12,39.64,5.12,39.64L18.83,64.24H31.52l12.2-10.61s7.73-31,3.56-40.72C44.14,5.61,31.84,0,23.93,0Z"/><polygon class="cls" points="27.92 85.88 30.83 75.96 43.78 60.73 41.05 70.38 27.92 85.88"/><polygon class="cls" points="6.05 60.73 8.97 70.64 21.92 85.88 19.19 76.22 6.05 60.73"/></g></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105.93 41.05" width="105.93" height="41.05" class="traps"
+     id="2" ><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls" d="M79,0s5.19,13.39,8.35,16.73c3.44,3.63,17.18,9.57,17.18,9.57l1.45,14.75L90.53,29.68l-19.09-.42.33-16.75Z"/><path class="cls" d="M27,0s-5.2,13.39-8.36,16.73C15.19,20.36,1.45,26.3,1.45,26.3L0,41.05,15.4,29.68l19.08-.42-.32-16.75Z"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95.02 31.99" width="95.02" height="31.99" class="chest" id="1">><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls" d="M14.9,0H42.7s-2.25,8.89-2.28,11.93c0,3.47,2.28,13.66,2.28,13.66L27.12,32,4.52,25.91,0,9.7Z"/><path class="cls" d="M80.11,0H52.32s2.24,8.89,2.28,11.93c0,3.47-2.28,13.66-2.28,13.66L67.89,32,90.5,25.91,95,9.7Z"/></g></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.8 34.12" width="130.8" height="34.12" class="shoulder" id="3"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls" d="M6,2.13c-1.86,1.12-6,6.4-6,6.4V34.12L14.09,23.46s-2-8-2-10.67C12,9.55,14.09,0,14.09,0S7.84,1.05,6,2.13Z"/><path class="cls" d="M124.76,2.13c1.86,1.12,6,6.4,6,6.4V34.12L116.71,23.46s2-8,2-10.67c0-3.24-2-12.79-2-12.79S123,1.05,124.76,2.13Z"/></g></g></svg>
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.53 128.31" width="86.53" height="128.31" class="abs" id="4" ><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="40.25 0 23.2 9.66 23.2 24.37 39.19 14.26 40.25 0"/><polygon class="cls" points="39.03 20.03 25.18 28.57 25.18 36.98 39.07 34.88 39.03 20.03"/><polygon class="cls" points="9.19 32.2 18.37 39.5 18.37 28.55 9.19 22.46 9.19 32.2"/><polygon class="cls" points="6.89 17.6 16.07 9.08 1.15 3 6.89 17.6"/><polygon class="cls" points="17.7 23.37 17.28 12.83 10.08 19.75 17.7 23.37"/><polygon class="cls" points="10.33 48.01 19.52 55.31 19.52 44.36 10.33 38.28 10.33 48.01"/><polygon class="cls" points="39.03 39.5 26.41 43.15 26.41 55.31 39.03 58.96 39.03 39.5"/><polygon class="cls" points="37.89 66.26 24.11 60.18 22.96 106.41 40.18 128.31 37.89 66.26"/><polygon class="cls" points="48.26 66.26 62.03 60.18 63.18 106.41 45.96 128.31 48.26 66.26"/><polygon class="cls" points="8.04 54.09 6.89 68.69 0 80.86 11.48 97.89 18.37 99.11 19.52 62.61 8.04 54.09"/><polygon class="cls" points="46.28 0 63.33 9.66 63.33 24.37 47.34 14.26 46.28 0"/><polygon class="cls" points="47.49 20.03 61.34 28.57 61.34 36.98 47.46 34.88 47.49 20.03"/><polygon class="cls" points="77.34 32.2 68.16 39.5 68.16 28.55 77.34 22.46 77.34 32.2"/><polygon class="cls" points="79.64 17.6 70.45 9.08 85.38 3 79.64 17.6"/><polygon class="cls" points="68.83 23.37 69.25 12.83 76.45 19.75 68.83 23.37"/><polygon class="cls" points="76.19 48.01 67.01 55.31 67.01 44.36 76.19 38.28 76.19 48.01"/><polygon class="cls" points="47.49 39.5 60.12 43.15 60.12 55.31 47.49 58.96 47.49 39.5"/><polygon class="cls" points="78.49 54.09 79.64 68.69 86.53 80.86 75.05 97.89 68.16 99.11 67.01 62.61 78.49 54.09"/></g></g></svg>
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137 67.9" width="137.67" height="67.9" class="bicep" id="0"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="16.9 0 9.23 11.13 2.07 54.78 8.96 49.82 18.89 40.24 23.64 11.78 16.9 0"/><polygon class="cls" points="20.1 43.74 3.28 58.28 4.7 67.9 17.84 55.11 20.1 43.74"/><polygon class="cls" points="0.65 45.16 5.63 10.96 0 16.45 0.65 45.16"/><polygon class="cls" points="120.1 0 127.77 11.13 134.93 54.78 128.04 49.82 118.11 40.24 113.36 11.78 120.1 0"/><polygon class="cls" points="116.89 43.74 133.72 58.28 132.3 67.9 119.16 55.11 116.89 43.74"/><polygon class="cls" points="136.34 45.16 131.37 10.96 137 16.45 136.34 45.16"/></g></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171.04 70.37" width="171.04" height="70.37" class="forearm" id="5"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="17.89 0 7.16 28.43 0 68.23 3.58 68.23 19.68 20.85 17.89 0"/><polygon class="cls" points="32.2 7.82 23.25 19.19 5.37 70.37 10.73 70.37 30.41 30.56 32.2 7.82"/><polygon class="cls" points="153.16 0 163.89 28.43 171.04 68.23 167.47 68.23 151.37 20.85 153.16 0"/><polygon class="cls" points="138.85 7.82 147.79 19.19 165.68 70.37 160.31 70.37 140.64 30.56 138.85 7.82"/></g></g></svg>
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.63 147.13" width="102.63" height="147.13" class="thigh" id="6"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="42.26 46.56 21.92 13.74 37.3 115.94 42.26 46.56"/><polygon class="cls" points="20.36 21.08 11.19 38.59 13.02 73.59 24.03 106.1 27.7 68.59 20.36 21.08"/><polygon class="cls" points="20.12 14.93 0 38.38 8.05 2.13 20.12 14.93"/><polygon class="cls" points="7.52 38.59 2.01 46.09 2.01 81.09 13.02 118.6 16.69 106.1 9.35 73.59 7.52 38.59"/><line class="cls" x1="82.5" y1="85.29" x2="88.95" y2="74.63"/><polygon class="cls" points="30.01 78.75 25.86 116.1 31.37 106.1 30.01 78.75"/><polygon class="cls" points="60.37 44.43 80.71 11.61 65.33 113.81 60.37 44.43"/><polygon class="cls" points="82.27 18.95 91.44 36.45 89.61 71.46 78.6 103.97 74.93 66.46 82.27 18.95"/><polygon class="cls" points="82.5 12.79 102.63 36.25 94.58 0 82.5 12.79"/><polygon class="cls" points="95.11 36.45 100.61 43.96 100.61 78.96 89.61 116.47 85.94 103.97 93.28 71.46 95.11 36.45"/><polygon class="cls" points="72.61 76.62 76.76 113.97 71.26 103.97 72.61 76.62"/><polygon class="cls" points="23.45 136.91 30.45 121.15 29.31 117.28 17.32 117.44 16.45 121.15 23.45 136.91"/><polygon class="cls" points="17.97 136.13 14.09 119.41 12.07 138.6 15.02 134.89 17.97 136.13"/><polygon class="cls" points="36.22 128.59 36.22 116.54 28.35 136.01 29.22 147.13 36.22 128.59"/><polygon class="cls" points="79.18 134.77 72.18 119.01 73.31 115.15 85.3 115.31 86.18 119.01 79.18 134.77"/><polygon class="cls" points="84.66 133.99 88.54 117.28 90.55 136.47 87.61 132.76 84.66 133.99"/><polygon class="cls" points="66.41 126.46 66.41 114.41 74.28 133.88 73.4 145 66.41 126.46"/></g></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93.91 88.74" width="93.91" height="88.74" class="calf" id="7"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="6.14 2.13 14.14 24.77 13.51 66.89 17.39 88.74 6.54 75.72 0 34.43 2.62 16.16 6.14 2.13"/><polygon class="cls" points="21.61 82.42 19.23 49.12 20.07 33.52 26.27 10.38 29.3 27.11 27.77 42.66 23.71 52.24 21.61 82.42"/><polygon class="cls" points="87.77 0 79.77 22.63 80.4 64.76 76.52 86.61 87.36 73.59 93.91 32.3 91.29 14.02 87.77 0"/><polygon class="cls" points="72.3 80.28 74.69 46.99 73.84 31.38 67.64 8.25 64.61 24.98 66.14 40.53 70.2 50.11 72.3 80.28"/></g></g></svg>
+</div>
+        
+        
+        
+<div class="human-body mt-5" id="back">
+    
+<!--    head1-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.16 51.37" width="42.16" height="51.37" class="head1"><defs><style>.cls{fill:#2594BA;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls" d="M21.09,0C13.61,0,2.86,8.41.57,15.37c-3,9.21,7,36,7,36H35.39s9.15-26.67,6.18-36C39.31,8.25,28.73,0,21.09,0Z"/></g></g></svg>
+    
+<!--    traps1-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66.65 23.51" width="66.65" height="23.51" class="traps1" id="2"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="19.95 0.31 13.04 9.49 0 23.51 16.82 21.77 24.03 13.06 28.84 0 19.95 0.31"/><polygon class="cls" points="46.7 0.31 53.61 9.49 66.65 23.51 49.83 21.77 42.62 13.06 37.81 0 46.7 0.31"/></g></g></svg>
+    
+<!--    upper-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.05 67.92" width="65.05" height="67.92" class="upper" id="8"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="18.07 9.6 0 11.32 7.21 32.22 12.82 46.15 28.84 67.92 28.04 0 25.14 0 18.07 9.6"/><polygon class="cls" points="46.98 9.6 65.05 11.32 57.84 32.22 52.23 46.15 36.21 67.92 37.01 0 39.91 0 46.98 9.6"/></g></g></svg>
+    
+<!--    shoulder1-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137.71 37.44" width="137.71" height="37.44" class="shoulder1" id="3"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls" d="M16,.87c-3.77.4-16,13.72-16,13.72L2.39,37.44l12-9.58s7-4,8-7.83c1.24-4.55,4.8-20,4.8-20S19.67.49,16,.87Z"/><path class="cls" d="M121.7.87c3.77.4,16,13.72,16,13.72l-2.39,22.85-12-9.58s-7-4-8-7.83c-1.25-4.55-4.81-20-4.81-20S118,.49,121.7.87Z"/></g></g></svg>
+    
+<!--    lower-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.07 54.42"  width="83.07" height="54.42" class="lower" id="10"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="7.92 19.99 9.13 39.08 0 54.42 28.98 45.33 19.59 38.69 7.92 19.99"/><polygon class="cls" points="37.05 0 10.61 7.42 13.05 18.52 23.19 35.95 40.07 48.88 37.05 30.35 37.05 0"/><polygon class="cls" points="75.15 19.99 73.94 39.08 83.07 54.42 54.08 45.33 63.48 38.69 75.15 19.99"/><polygon class="cls" points="46.02 0 72.46 7.42 70.02 18.52 59.88 35.95 43 48.88 46.02 30.35 46.02 0"/></g></g></svg>
+    
+<!--    lats-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.57 82.21"  width="91.57" height="82.21" class="lats" id="9"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="17.27 24.75 8.44 0 0 52.15 11.66 82.21 41.3 73.5 41.3 63.06 22.07 36.94 17.27 24.75"/><polygon class="cls" points="74.3 24.75 83.13 0 91.57 52.15 79.91 82.21 50.27 73.5 50.27 63.06 69.5 36.94 74.3 24.75"/></g></g></svg>
+    
+<!--    tricep-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 149.35 71.49" width="149.35" height="71.49" class="tricep" id="13"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="6.3 17.69 3.04 34.34 0 52.73 3.34 71.49 14.79 35.38 26.82 14.62 28.24 0 6.3 17.69"/><polygon class="cls" points="15.59 39.71 25.41 26.92 23.77 47.15 10.08 64.92 15.59 39.71"/><polygon class="cls" points="143.05 17.69 146.3 34.34 149.35 52.73 146 71.49 134.56 35.38 122.53 14.62 121.11 0 143.05 17.69"/><polygon class="cls" points="133.75 39.71 123.94 26.92 125.58 47.15 139.27 64.92 133.75 39.71"/></g></g></svg>
+    
+<!--    forearm1-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212.35 67.25"  width="212.35" height="67.25" class="forearm1"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="30.14 0 17.31 23.82 17 29.93 0 59.65 5.9 57.94 31.24 16.43 30.14 0"/><polygon class="cls" points="40.96 8.78 9.86 56.12 10.96 67.25 39.08 19.93 40.96 8.78"/><polygon class="cls" points="182.21 0 195.03 23.82 195.35 29.93 212.35 59.65 206.45 57.94 181.11 16.43 182.21 0"/><polygon class="cls" points="171.39 8.78 202.49 56.12 201.39 67.25 173.27 19.93 171.39 8.78"/></g></g></svg>
+    
+<!--    hams-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95.91 104.07" width="95.91" height="104.07" class="hams" id="12"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="7.36 0 0 42.06 2.11 52.49 6.3 84.94 15.64 67.55 21.78 7.75 9.76 12.6 7.36 0"/><polygon class="cls" points="35.77 52.77 24.27 5.82 20.67 71.03 27.86 104.07 35.77 52.77"/><polygon class="cls" points="42.61 0.97 29.79 4.85 37.92 49.29 43.67 33.64 42.61 0.97"/><polygon class="cls" points="16.89 75.33 12.03 82.99 15.43 96.53 20.79 90.05 16.89 75.33"/><polygon class="cls" points="88.55 0 95.91 42.06 93.8 52.49 89.61 84.94 80.27 67.55 74.13 7.75 86.14 12.6 88.55 0"/><polygon class="cls" points="60.15 52.77 71.64 5.82 75.24 71.03 68.05 104.07 60.15 52.77"/><polygon class="cls" points="53.3 0.97 66.12 4.85 57.99 49.29 52.24 33.64 53.3 0.97"/><polygon class="cls" points="79.02 75.33 83.88 82.99 80.48 96.53 75.13 90.05 79.02 75.33"/></g></g></svg>
+    
+<!--    glutes-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.07 45.82" width="81.07" height="45.82" class="glutes" id="11"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="31.24 0 0 11.26 4.81 45.82 35.04 37.09 38.45 28.14 31.24 0"/><polygon class="cls" points="49.83 0 81.07 11.26 76.26 45.82 46.03 37.09 42.62 28.14 49.83 0"/></g></g></svg>
+    
+<!--    calf1-->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103.43 87" width="103.43" height="87" class="calf1" id="7"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls" points="27.79 10.26 18.43 22.65 14.84 70.48 20.58 87 29.93 67 27.79 10.26"/><polygon class="cls" points="16.53 18.26 11.5 0 5.75 26.96 2.16 40 0 74.78 1.44 86.95 10.06 77.39 11.29 43.12 16.53 18.26"/><polygon class="cls" points="75.64 10.26 85 22.65 88.59 70.48 82.85 87 73.5 67 75.64 10.26"/><polygon class="cls" points="86.9 18.26 91.93 0 97.68 26.96 101.27 40 103.43 74.78 101.99 86.95 93.37 77.39 92.14 43.12 86.9 18.26"/></g></g></svg>
+        
+    </div>    
+    </div>
+    
+    <div class="col-lg-7 mb-3">
+        
+         <div id="muscle_brief" class="card text-center p-5">
+        <h2>MUSCLE GROUPS</h2>
+
+<h1 id="muscle_name"></h1> 
+<p id="description"></p><br>
+<p id="description2"></p><br>
+<p id="test"></p>
+<a class="btn btn-primary" id="showExercise" href="#exerciseTable" data-tooltip title="Click here to display the exercises for this muscle group!">Show Exercises</a>
+<button class="btn btn-info" id="hideExercise" data-tooltip title="Click here to hide the exercises!">Hide Exercises</button>
+</div>
+        
+        <div id="static_muscle_brief" class="card text-center p-5">
+        <h2>CLICK A BODY PART ON THE DIAGRAM TO DISPLAY INFORMATION ABOUT IT WITHIN THIS BOX!</h2>
+</div>
+        
+    </div>
+    </div></div></div><div class="navy_Seperator mb-0"></div>
+<div class="container mb-0">
+    <div id="exerciseTable">
+        <h1 class="text-center mt-5"><span id="tbl_title"></span> EXERCISES</h1>
+        <table class="table text-center">
+        <thead><tr>
+      <th scope="col">Exercise</th>
+      <th scope="col">Description</th>
+    </thead>
+        <tbody>
+            
+        </tbody>
+        </table>
+        </div>
+    </div>
+    
+    </html>

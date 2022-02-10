@@ -1,0 +1,240 @@
+[{
+  "id": 1,
+  "muscleGroup": "BICEP",
+  "Description": "The biceps brachil is one of the most sought after muscles to grow. It's primary usage is elbow flexation which is why someone would curl a barbell to train it. ",
+  "Description2": "They are made up of two heads, a long head and a short head. The short head is responsible for curling motions and forearm movement. The longhead shares responsibility for curling but is also responsible for shoulder flexation.",
+  "Exercises": [
+  
+			  { "Name":"Bicep Curl" ,
+  "explained":"Complete this exercise by standing up straight and bring the barbell to your chest while keeping your shoulders back making sure that you engage the biceps. Try to relax and do not swing.", "Gif":"https://media.giphy.com/media/lqjhR7fPECM8QMdYQx/giphy.gif" }, 
+			  { "Name":"Hammer Curl" ,
+  "explained":"Complete this exercise by making sure the dumbells are utrned to the side. This will hit a different part of the biceps than regular curls.. Try to relax and do not swing. Kepp shoulders back and engage the biceps.", "Gif":"https://media.giphy.com/media/LQosDYdHATPYnZ0Oy0/giphy.gif"}, 
+			  { "Name":"Dumbell Bicep Curl" , 
+  "explained":"Stand straight or sit on a bench. Have your hands by your sides and turn the dumbell up as you lift it to activate the biceps.", "Gif":"https://media.giphy.com/media/XyhP6xie8t2vbftS7B/giphy.gif" },
+              { "Name":"Close Grip Chin Up" , 
+  "explained":"Grab the bar with an underhand grip with your hands close together and pull up until your chin is over the bar. Then go back down slowly and straighten your arms.", "Gif":"https://media.giphy.com/media/d7MiTfukDGcXiyUVWj/giphy.gif" },
+              { "Name":"Incline Dumbell Curls" , 
+  "explained":"This is the same as a dumbell curl but seated on an incline bench. this is slightly more difficult and will activate the biceps more than regular curls. This will help with a peak", "Gif":"https://media.giphy.com/media/RhMauKQtALuD0sXNxZ/giphy.gif" }
+			  ]
+			  },
+{
+  "id": 2,
+  "muscleGroup": "CHEST",
+  "Description": "The chest muscle is a predominant upper body muscle. It is made up of two muscles, pectoralis major and pectorilis minor. The pectoralis major moves each shoulder joint in four distinct directions, and also keeps the arms attached to the body. The pectoralis minor is located underneath the pectoralis major. This thin triangle-shaped muscle runs up and down along the upper ribs.  ",
+  "Description2": "Pectoral muscles are associated with movement of the shoulders and arms. The are used in everyday activities and like stretching our arms, lifting objects etc.",
+  "Exercises": [
+  
+			  { "Name":"Bench Press" ,
+  "explained":"Lay flat on your bench. Make sure your feet are flat on the ground. Lower bar to mid chest and raise the bar until you have locked your elbows.", "Gif":"https://media.giphy.com/media/LpjexX9X11MgizFHKW/giphy.gif" }, 
+			  { "Name":"Dumbell Bench Press" ,
+  "explained":"Grab the dumbells and put them on your knees as you sit on the bench. Lay back and push the dumbells up with your knees. Bring the dumbells down and make sure your arms are at an angle and not straight out. Raise them up and straighten your arms.", "Gif":"https://media.giphy.com/media/LShx9gvcP6jhOEtFmn/giphy.gif"  }, 
+			  { "Name":"Chest Flies" , 
+  "explained":"Grab two dumbells. Lay flat on the bench with your feet on the ground. lower weights simutaneaously until they are parallel to bench. Then raise back up to middle.", "Gif":"https://media.giphy.com/media/RIf1Y6XzXZBs1ELspm/giphy.gif"  },
+              { "Name":"Machine Flies" , 
+  "explained":"Put your arms over the machine and push in until the parts of the machine touch together. Make sure you have your shoulders back and chest out.", "Gif":"https://media.giphy.com/media/eltX1qYAYickNc0r9U/giphy.gif"  },
+              { "Name":"Push ups" , 
+  "explained":"Facing the floor, keep your back straight and lower your body to the floor and push back up again. Make sure that your arms are parrallel.", "Gif":"https://media.giphy.com/media/TjqEtGDHy338HNU4wt/giphy.gif"  },
+              { "Name":"Incline DB press" , 
+  "explained":"Raise the bench to a 30-45 degree angle. Grab the dumbells and put them on your knees as you sit on the bench. Lay back and push the dumbells up with your knees. Bring the dumbells down and make sure your arms are at an angle and not straight out. Raise them up and straighten your arms.", "Gif":"https://media.giphy.com/media/Me7ofsHWPN1zVfkQHS/giphy.gif"  },
+              { "Name":"Decline DB press" , 
+  "explained":"Lower the bench to a 30-45 degree angle. Grab the dumbells and put them on your knees as you sit on the bench. Lay back and push the dumbells up with your knees. Bring the dumbells down and make sure your arms are at an angle and not straight out. Raise them up and straighten your arms.", "Gif":"https://media.giphy.com/media/TLUk4xaFgEc5GqauXm/giphy.gif"  },
+      { "Name":"Dips" , 
+  "explained":"Hold your body with you arms straight on the dip bars. Lower your body until your arms are 90 degree angle and then push back up. Flare your elbows out.", "Gif":"https://media.giphy.com/media/cL4uVynZ7RKxrE6ylk/giphy.gif"  }
+			  ]
+},
+
+{
+  "id": 3,
+  "muscleGroup": "TRAPS",
+  "Description": "The traps (Trapezius) muscles are the muscles that sit on top of your shoulders but also run down a large part of your back. There are three parts that all serve slightly different functions. These different parts are referred to as the superior, medial, and inferior fibers",
+  "Description2": "The traps are responsible for things such as moving your neck up and scapular rotation and retraction.",
+  "Exercises": [
+  
+			  { "Name":"Upright Rows" ,
+  "explained":"Hold the bar with an overhand grip. pull the bar up to your chin and lower it back down.", "Gif":"https://media.giphy.com/media/UVXdj4evwTdqFQekoJ/giphy.gif" }, 
+			  { "Name":"Shrugs" ,
+  "explained":"Hold the barbell with an overhand grip. Shrug your shoulders and pause at the top of the shrug, then lower the bar.", "Gif":"https://media.giphy.com/media/d8ndfJ24wi8oZ8Ydif/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 4,
+  "muscleGroup": "SHOULDERS",
+  "Description": "Shoulders (Deltoids) are a very popular muscle to develop. The appearance of well developed shoulders can make the waist appear smaller. This means that shoulders play a massive part in the overall physique. There are three parts which include front, middle and rear and they all have slightly different jobs.",
+  "Description2": "Front deltoids are trained a lot in other exercises such as bench press and push ups. This can mean that you could under develop the rear and mid delts so it is advised to isolate them with other exercises.",
+  "Exercises": [
+  
+			  { "Name":"Military Press" ,
+  "explained":"Lift the bar overhead while standing up. Be careful not to go too heavy on this exercise as it could hurt your back.", "Gif":"https://media.giphy.com/media/S6BEXC7zTkuwAPZJTu/giphy.gif"  }, 
+			  { "Name":"Dumbell Shoulder Press" ,
+  "explained":"sit on a bench at 90 degrees with two dumbells and press up. Make sure your elbows do not flare out. This hits the front delt.", "Gif":"https://media.giphy.com/media/hrSE5AK1mPFQ9LDTkA/giphy.gif" }, 
+			  { "Name":"Arnold Press" , 
+  "explained":"This is similar to normal shoulder press but you start with your hands facing your chest then turn them and push up. This exercise hits the front and side delts.", "Gif":"https://media.giphy.com/media/iiDdAHGyvbX3WvgPno/giphy.gif" },
+      { "Name":"Lateral Raises" , 
+  "explained":"Have a dumbell in each hand and raise them away from your body. To keep correct form pretend that you are pouring out a drink. Have a slight bend in your arms. This hits the side delt.", "Gif":"https://media.giphy.com/media/fYBmia3FSE1s23ttWH/giphy.gif" },
+      { "Name":"Front Raises" , 
+  "explained":"Hold the dumbells in each hand and lift them up in front of you until your arms are straight out in front of you and then lower them down. This hits the front delt.", "Gif":"https://media.giphy.com/media/SVl8ui5SZXV5zvgZou/giphy.gif" },
+      { "Name":"Reverse Flies" , 
+  "explained":"Hold the dumbells in each hand and bend oer keeping your back staight. allow the dumbells to hang down and move them up the opposite way of each other. This exercise hits the rear delts and will help you from developing bad posture.", "Gif":"https://media.giphy.com/media/VEc95BXxGsEeDLX7Qb/giphy.gif" },
+      { "Name":"Psuedo Pushups" , 
+  "explained":"This is a form of pushup that will work the shoulders and triceps more than a usual pushup would. Lean into the pushup with your backside up in the air and then push up at the end.", "Gif":"https://media.giphy.com/media/dZY2XRT6MtxFk4mXEL/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 5,
+  "muscleGroup": "ABDOMEN",
+  "Description": "The abs are arguably the most desireable muscle to a lot of people getting into fitness. Everyone is aware of the '6 pack' but the abs actually contain four different parts. These are the rectus abdominis, the external oblique, the internal oblique, and the transverse abdominis.",
+  "Description2": "All foyr muscles have slightly different jobs but they work together in important acts such as stabilising the spine and engaging in athletic activities.",
+  "Exercises": [
+  
+			  { "Name":"Crunches" ,
+  "explained":"Lay on the floor with your legs up and crossed. Bring your elbows to your knees and hold for two seconds and then go back down. Make sure you face upwards. This works the upper abs", "Gif":"https://media.giphy.com/media/UQ1fY1NDPqGsLBylsx/giphy.gif" }, 
+			  { "Name":"V-Sits" ,
+  "explained":"Lay on the floor and put your arms above your head. Move your legs and arms to touch in the middle. This works the lower and upper abs.", "Gif":"https://media.giphy.com/media/Tf90N6GHzWpkYGI1V9/giphy.gif" }, 
+			  { "Name":"Knee Raises" , 
+  "explained":"Grab onto the bars and raise your knees up. Try not to swing to fully engage the abs. This mainly targets lower abdomen.", "Gif":"https://media.giphy.com/media/loMqe4kLIdi0libP7a/giphy.gif" },
+      { "Name":"Leg Raises" , 
+  "explained":"Hang on the bar and raise your legs up as high as you can and themn lower them slowly and controlled. Try to keep your legs as straight as possible.", "Gif":"https://media.giphy.com/media/VGDUswAw4bbSD4iOYu/giphy.gif" },
+      { "Name":"Plank" , 
+  "explained":"Get into the plank position on the floor and hold this for an amount of time such as thirty seconds. This will engage your whole core.", "Gif":"https://media.giphy.com/media/J6InycpwcYOJWi4N6Q/giphy.gif" },
+      { "Name":"Roll-outs" , 
+  "explained":"grob onto the roller and sit on your knees. Roll out until your arms are straight and then roll it back in.", "Gif":"https://media.giphy.com/media/fUeeJZfMxF8uvGO7ct/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 6,
+  "muscleGroup": "FOREARM",
+  "Description": "The forearms are made up of many ifferent muscles. The three main muscles would be the brachioradialis, the wrist flexors, and the pronator teres.",
+  "Description2": "The forearm muscles would be responsible for things such as wrist movement and grip strength.",
+  "Exercises": [
+  
+			  { "Name":"Wrist Curls",
+  "explained":"Put your forearms on your thights and face your palm upward while holding a dumbell. Then use your wrist to lift the weight up and lower it back down.", "Gif":"https://media.giphy.com/media/J1XzcEofg8yrM6hdkY/giphy.gif" }, 
+			  { "Name":"Reverse Curls" ,
+  "explained":"Do a regular bicep curl keeping your shoulders back and your body still. To engage the forearms do a reverse grip.", "Gif":"https://media.giphy.com/media/VEhvBkETQEPaxBx4kY/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 7,
+  "muscleGroup": "THIGH",
+  "Description": "The thigh muscles (Quadriceps) contain four different heads hence the name. The different heads are the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.",
+  "Description2": "The thighs have multiple responsibilities but they are mostly responsible for extending the knee. This means that they are being used every time you walk. They also stabilise the knee.",
+  "Exercises": [
+  
+			  { "Name":"Leg Extensions" ,
+  "explained":"Sit on the machine al lift your legs out straight. Then lower them back down.", "Gif":"https://media.giphy.com/media/W01xAAPuWUdZEfJkwZ/giphy.gif" }, 
+			  { "Name":"Squats" ,
+  "explained":"Make sure the bar is behind the head on the shoulders. lower yourself to the ground while keeping your back straight. Make sure that you go down as low as your can and do not bring the knees out in front of oyur feet.", "Gif":"https://media.giphy.com/media/kDxYATQWH7CahuMeDJ/giphy.gif" }, 
+			  { "Name":"Goblet Squats" , 
+  "explained":"Hold a dumbell between tour hands and lower yourself until your elbows touch your knees. Keep your back straight.", "Gif":"https://media.giphy.com/media/ghN5zVBjX6MrVOZ3NY/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 8,
+  "muscleGroup": "CALF",
+  "Description": "The calfs are made up of two parts,  the gastrocnemius and the soleus.",
+  "Description2": "The calf muscles are responsible for ankle flextion. This means that the calf muscles are being used every time someone runs or jumps or walks! The soleus part of the calf is made up of type 1 muscle fibers which mean it fatigues slowly. This allows humans to walk and run for long periods of time without fatiguing the calfs. ",
+  "Exercises": [
+  
+			  { "Name":"Calf Raises" ,
+  "explained":"Hold a barbell behind your head or dumbells by your side and go onto the balls of your feet and then lower back down.", "Gif":"https://media.giphy.com/media/PnhKYqysIGnWr03Bi6/giphy.gif"}
+			  ]
+},
+
+{
+  "id": 9,
+  "muscleGroup": "RHOMBOID",
+  "Description": "Rhomboids are the upper inner back muscles. They are attatched to the scapula and are often looked at clinically when it comes to posture.",
+  "Description2": "The main function of the rhomboids would be posture, which is important when looking at a physique, and shoulder mechanics.",
+  "Exercises": [
+  
+			  { "Name":"Face Pulls" ,
+  "explained":"Pull the bar to your face. This engages the upper back.", "Gif":"https://media.giphy.com/media/SVaR9qQYKlZV5oSUbx/giphy.gif" }, 
+			  { "Name":"Rows" ,
+  "explained":"Lift the bar up keeping your back straight. Bend over still with a straight back and lower the bar to the floor. Then pull it up and lower it.", "Gif":"https://media.giphy.com/media/W3f9Asi2yWHepRKXRf/giphy.gif" }, 
+			  { "Name":"Bodyweight Rows" , 
+  "explained":"Keep your body straight. Grab the handles or bar and pull your body up so that the bar or cables reach your chest.", "Gif":"https://media.giphy.com/media/W5xdGm9ZbYftxdVftW/giphy.gif" },
+      { "Name":"Dumbell Rows" , 
+  "explained":"Keep one knee on the bench and your back straight. Lift the dumbell up keeping your hand parallel to your body and then lower it again.", "Gif":"https://media.giphy.com/media/KeFAv7Z0hQ08BKFx4K/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 10,
+  "muscleGroup": "LATS",
+  "Description": "The lats are very important muscles that make up a large section of the back. When they are well developed they give the back a thicker look, making the waist look smaller. They also contribute to the T-shape look that a lot of people desire.",
+  "Description2": "When it comes to function the lats have many responsibilities but to keep it simple the lats are responsible for the majority of pulling movements that someone does in everyday life.",
+  "Exercises": [
+  
+			  { "Name":"Lat Pulldowns" ,
+  "explained":"Grab the bar and pull it down to your chest. Let the bar raise back up but make sure that you do this slowly and hyper extend your arms and back.", "Gif":"https://media.giphy.com/media/f6K56Tni9Sqo5KWEFv/giphy.gif" }, 
+			  { "Name":"Pull-ups" ,
+  "explained":"Grab the bar with an overhand grip and slightly more than shoulder width apart. Pull up until your chin is above the bar and then lower yourself slowly.", "Gif":"https://media.giphy.com/media/LPYaKrpAXpeavDuxlm/giphy.gif" }, 
+			  { "Name":"Rows" , 
+  "explained":"Lift the bar up keeping your back straight. Bend over still with a straight back and lower the bar to the floor. Then pull it up and lower it.", "Gif":"https://media.giphy.com/media/W3f9Asi2yWHepRKXRf/giphy.gif" }
+			  ]
+}, 
+
+{
+  "id": 11,
+  "muscleGroup": "LOWER BACK",
+  "Description": "The lower back (Erector Spinae) muscles are composed of many smaller muscles and tendons. It is very important when it comes to lifting and bending in everyday tasks.",
+  "Description2": "Having a strong lower back will assist in everyday activities, reduce back pain and aches and it will assist in other exercises for different muscle groups giving the person lifting the weight a stronger core.",
+  "Exercises": [
+  
+			  { "Name":"Deadlifts" ,
+  "explained":"Keep your back arched and do not bend it the other way. Grab the bar slightly more than shoulder width apart and lift it while keeping your back straight and not bending it. When you get to the top of the movement push your hips forward and straighten up.", "Gif":"https://media.giphy.com/media/VFYOUVI2RY02AzVrEV/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 12,
+  "muscleGroup": "GLUTES",
+  "Description": "Your glutes are the muscles that make up your buttocks. This is often top of the list to tone up in many peoples fitness goals. It isn't only important aesthetically it can also make a great contribution to strength and everyday activities and exercise. ",
+  "Description2": "Most leg exercises will inlfuence the glutes somehow as they are used quite a lot. If they are weak they can cause lower back pain and pain when standing or sitiing.",
+  "Exercises": [
+  
+			  { "Name":"Squats" ,
+  "explained":"Make sure the bar is behind the head on the shoulders. lower yourself to the ground while keeping your back straight. Make sure that you go down as low as your can and do not bring the knees out in front of oyur feet.", "Gif":"https://media.giphy.com/media/kDxYATQWH7CahuMeDJ/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 13,
+  "muscleGroup": "HAMSTRINGS",
+  "Description": "The Hamstrings consist of three muscles the Biceps Femoris muscle, the Semitendinosus muscle, and the Semimembranosus muscle. These muscles combined are primarily responsible for the flexion of the knee joint (bending of the knee) as well as assisting the extension of the thigh (moving the upper leg backwards). ",
+  "Description2": "Hamstring muscles work in tandem to rotate the knee, assist in maintaining a standing position with knees slightly bent as well as limiting how far we can bend forward as we try to touch our toes without bending our knees. The hamstring muscles also play a role in our posture by assisting to straighten out the lower curvature of the spine which curves the pelvis forward when sitting.",
+  "Exercises": [
+  
+			  { "Name":"Russian Deadlift" ,
+  "explained":"Lower the bar while keeping a slight bend in your legs and raise it again when it wont go any lower. Keep your back straight.", "Gif":"https://media.giphy.com/media/lrK57KQ7P4aKRvWsgF/giphy.gif" }, 
+			  { "Name":"Squats" ,
+  "explained":"Make sure the bar is behind the head on the shoulders. lower yourself to the ground while keeping your back straight. Make sure that you go down as low as your can and do not bring the knees out in front of oyur feet.", "Gif":"https://media.giphy.com/media/kDxYATQWH7CahuMeDJ/giphy.gif" }
+			  ]
+},
+ 
+{
+  "id": 14,
+  "muscleGroup": "TRICEP",
+  "Description": "The Triceps Brachii muscles are located on the back of the humerus and more commonly referred to as the triceps. They derive their name from a Latin phrase meaning “three headed arm muscle”,  due to the fact that the triceps muscles have three muscle heads and therefore have three separate origin attachment points. These three heads are called the Lateral, Medial and Long and they connect the Humerus, Scapula to the Ulna.",
+  "Description2": "The Triceps Brachhii muscles are primarily responsible for the extension of the elbow joint (straightening of the arm). They are the largest muscles in the upper arms.",
+  "Exercises": [
+  
+			  { "Name":"Tricep Extension" ,
+  "explained":"Grab one dumbell, Press it above your head and then let it back. Extend your arm towards the ceiling and let it slowly lower again.", "Gif":"https://media.giphy.com/media/KeDyGGxsj35ll3uZ4q/giphy.gif" }, 
+			  { "Name":"Skull Crusher" ,
+  "explained":"Lay flat on a bench and push the barbell up. Let it move behind your head and then push it back up. Try to have your upper arm at a 45 degree angel.", "Gif":"https://media.giphy.com/media/htRuy4aM8RGJUVgvxX/giphy.gif" }, 
+			  { "Name":"Close-Grip Bench Press" , 
+  "explained":"Do a normal bench press but keep your hands shoulder length apart and make your arms come down by your side and not flare. This will engage the triceps.", "Gif":"https://media.giphy.com/media/ihGUxClKbwZbA7Nbha/giphy.gif" },
+      { "Name":"Diamond Pushups" , 
+  "explained":"Do a regular push up but have your hands form a diamond shape. This will engage your triceps.", "Gif":"https://media.giphy.com/media/ZY2fJEMJLOutAgLgSh/giphy.gif"  },
+      { "Name":"Tricep Pulldowns" , 
+  "explained":"Grab the bar with an overhand grip on a cable machine. Pull down and keep the upper arms still and use your forearms. lock your arms out flexing the tricep and then slowly raise the bar.", "Gif":"https://media.giphy.com/media/IdHXb7LZ66By2pXrMA/giphy.gif"  },
+      { "Name":"Dips" , 
+  "explained":"Hold your body with you arms straight on the dip bars. Lower your body until your arms are 90 degree angle and then push back up. Flare your elbows out.", "Gif":"https://media.giphy.com/media/cL4uVynZ7RKxrE6ylk/giphy.gif"  }
+			  ]
+}]

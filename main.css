@@ -1,0 +1,166 @@
+
+/*INTERACTIVE DIAGRAM*/
+
+.human-body {
+    margin-bottom: 70px;
+   	display: inline-block;
+	position: relative;
+	width: 100%;
+	padding-bottom: 100%;
+	vertical-align: middle; 
+}
+.human-body svg:hover {
+    cursor: pointer;
+}
+.human-body svg:hover path {
+    fill: #FF4700;
+}
+
+.human-body svg:hover polygon {
+    fill: #FF4700;
+}
+
+.human-body svg {
+    position: absolute;
+    left: 50%;
+}
+.human-body svg.head {
+    margin-left: -28.5px;
+    top: -6px;
+}
+.human-body svg.traps {
+    margin-left: -54.2px;
+    top: 51px;
+    width: 100px;
+}
+
+.human-body svg.chest {
+    margin-left: -50.5px;
+    top: 86px;
+    z-index: 10000;
+}
+
+.human-body svg.shoulder {
+    margin-left: -69.5px;
+    top: 76.5px;
+}
+
+.human-body svg.abs {
+    margin-left: -46.5px;
+    top: 115px;
+    z-index: 1000;
+}
+.human-body svg.calf {
+    margin-left: -48.5px;
+    top: 338px;
+}
+.human-body svg.thigh {
+    margin-left: -53.5px;
+    top: 203px;
+}
+
+.human-body svg.bicep {
+    margin-left: -71.5px;
+    top: 105px;
+}
+
+.human-body svg.forearm {
+    margin-left: -87.5px;
+    top: 157px;
+}
+
+
+.human-body svg.head1 {
+    margin-left: -27.5px;
+    top: -6px;
+}
+
+.human-body svg.traps1 {
+    margin-left: -40.2px;
+    top: 49px;
+}
+
+.human-body svg.shoulder1 {
+    margin-left: -75.5px;
+    top: 71.5px;
+}
+
+.human-body svg.upper {
+    margin-left: -39.5px;
+    top: 65px;
+    z-index: 10000;
+}
+
+.human-body svg.lats {
+    margin-left: -53.5px;
+    top: 75px;
+    z-index: 10000;
+}
+
+.human-body svg.lower {
+    margin-left: -49.5px;
+    top: 153px;
+    z-index: 1000;
+}
+
+.human-body svg.calf1 {
+    margin-left: -59.5px;
+    top: 326px;
+}
+
+.human-body svg.glutes {
+    margin-left: -48.5px;
+    top: 200px;
+}
+
+.human-body svg.hams {
+    margin-left: -56.5px;
+    top: 240px;
+}
+
+.human-body svg.forearm1 {
+    margin-left: -112.5px;
+    top: 157px;
+}
+
+.human-body svg.tricep {
+    margin-left: -81.5px;
+    top: 100px;
+}
+
+.btn{
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 50px;
+    font-size: 1rem !important;
+}
+
+.navy{
+ background-color: #262638 !important;
+ padding: 20px !important;
+ text-align: center !important;
+ color: white !important;
+  display: inline-block !important;
+  width: 100% !important;
+}
+
+.gradient_yellow {
+    background: rgb(255,154,36);
+background: linear-gradient(90deg, rgba(255,154,36,1) 18%, rgba(255,121,0,1) 55%);
+     margin:0;
+    display: inline-block;
+  width: 100%;
+    padding-top: 70px;
+}
+
+.exercise_Gif{
+    width: 100%;
+   height: auto;
+}
+
+
+.table{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+}
